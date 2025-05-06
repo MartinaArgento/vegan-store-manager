@@ -1,2 +1,5 @@
-# vegan-store-manager
-Inventory and sales management system for a vegan store in Python
+# Vegan Store Manager
+
+A Python-based management tool for a fictional vegan store.  
+Includes modules for inventory tracking, sales recording, profit evaluation, and user interaction through a text interface.
+
